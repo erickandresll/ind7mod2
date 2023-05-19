@@ -1,0 +1,4 @@
+ECHO est  activado.
+M¢dulo 1: Programaci¢n en python 
+M¢dulo 2: Lenguaje de Consultas a una Base de Datos 
+M¢dulo 3: Fundamentos de Desarrollo web 
